@@ -1,0 +1,19 @@
+# backup files
+*.bak
+*.backup
+
+
+# OS files
+thumbs.db
+.DS_Store
+__MACOSX
+
+# VCS files
+.git
+.svn
+
+
+# editors files
+.idea
+nbproject
+nppBackup
