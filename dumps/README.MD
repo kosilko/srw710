@@ -1,7 +1,6 @@
 Прошивки от разных версий приемника (дампы с микросхем flash S25FL216/MX25L1606). Все взаимозаменяемы.<br /> 
 Использовался программатор CH341.<br />
-<img src="../../../blob/master/dumps/CH341.jpg" width="212"/>
-<a target="_blank" href="../../../raw/master/dumps/program.png"><img src="../../../blob/master/dumps/program.png" width="256"/></a><br />
+<a target="_blank" href="../../../raw/master/dumps/CH341.jpg"><img src="../../../blob/master/dumps/CH341.jpg" width="212"/></a><a target="_blank" href="../../../raw/master/dumps/program.png"><img src="../../../blob/master/dumps/program.png" width="256"/></a><br />
 Перед прошивкой не забудьте стереть микросхему даже если она новая.<br /> 
 Отличия прошивок (от старой к новой):
 <ul> 
